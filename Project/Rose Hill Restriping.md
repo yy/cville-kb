@@ -8,7 +8,21 @@ The City of Charlottesville is studying improvements along Rose Hill Drive betwe
 
 - Project page: https://connect.charlottesville.gov/RoseHillRestriping
 - Contact: connect@charlottesville.gov
-- Consultant: [[Organization/Line and Grade]] (Rachel Falkenstein, Siri Russell)
+
+## Project staff
+
+**City of Charlottesville**
+
+- [[Person/Ben Chambers]] — Transportation Planning Manager
+- [[Person/Mike Parisi]] — Neighborhood Consultant
+- [[Person/Ose Akinlotan]] — Long-Range Planning Manager
+- [[Person/Caleb Smith]] — City Traffic Engineer
+- [[Person/Brennen Duncan]] — City Engineer, P.E.
+
+**[[Organization/Line and Grade]]**
+
+- [[Person/Rachel Falkenstein]] — Planning Studio Manager
+- [[Person/Siri Russell]] — Senior Strategy Planner
 
 ## Traffic volumes
 
