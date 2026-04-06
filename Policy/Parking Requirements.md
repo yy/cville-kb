@@ -4,9 +4,7 @@ date: 2026-04-06
 tags: [zoning, transportation, bike-ped, development-code]
 ---
 
-Charlottesville's Development Code (Chapter 34, adopted December 18, 2023; amended February 17, 2026) eliminated minimum vehicle parking requirements and introduced minimum bicycle parking requirements.
-
-- Source: [Charlottesville Development Code (PDF, updated March 2026)](https://www.charlottesville.gov/DocumentCenter/View/16092/Charlottesville-Development-Code-PDF-Updated-March-23-2026), Division 4.5
+The [[Policy/Charlottesville Development Code]] (Chapter 34, adopted December 18, 2023; amended February 17, 2026) eliminated minimum vehicle parking requirements and introduced minimum bicycle parking requirements (Division 4.5).
 
 ## Vehicle parking (Sec. 4.5.4)
 
