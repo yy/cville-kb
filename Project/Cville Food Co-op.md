@@ -26,7 +26,7 @@ SUP granted to increase density from 21 DUA to 87 DUA, with modifications to set
 - Max height: 65 ft / 5 stories (5 ft step-back above 4th story on Cherry Ave frontage; 45 ft / 3 stories within 40 ft of northern boundary)
 - Mixed use: no single use type may exceed 80% of gross SF
 
-## Proffers
+## [[Process/Proffer|Proffers]]
 
 1. Minimum 60 affordable units if residential portion sold to [[Organization/Piedmont Housing Alliance]]; otherwise 4–5 (up to 8–9) affordable units for minimum 6 years
 2. Non-profit space available for purchase for 120 days after first certificate of occupancy
