@@ -36,3 +36,4 @@ A standard fire truck costs over $1 million with a 3–4 year manufacturing lead
 
 - [CFD Strategic Plan Town Hall announcement](https://www.charlottesville.gov/m/newsflash/home/detail/2419) — City of Charlottesville
 - [Charlottesville Looks to Downsize Its Firetrucks](https://cvillerightnow.com/news/208802-charlottesville-looks-to-downsize-its-firetrucks/) — Cville Right Now, April 6, 2026
+- [How Charlottesville Fire Department is working to modernize its fleet](https://www.29news.com/2026/04/07/how-charlottesville-fire-department-is-working-modernize-its-fleet/) — 29News, April 7, 2026

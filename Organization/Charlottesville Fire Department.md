@@ -13,6 +13,10 @@ The Charlottesville Fire Department (CFD) provides fire suppression, emergency m
 
 - Deputy Fire Chief Will Broscious
 
+## News
+
+- [How Charlottesville Fire Department is working to modernize its fleet](https://www.29news.com/2026/04/07/how-charlottesville-fire-department-is-working-modernize-its-fleet/) (2026-04-07)
+
 ## Related
 
 - [[Process/CFD Strategic Planning]]
