@@ -7,6 +7,7 @@ tags: [transportation, bike-ped, safety]
 The City of Charlottesville is studying improvements along Rose Hill Drive between Preston Avenue and Rugby Avenue (~0.6 miles). The corridor will be repaved in Summer 2027, creating an opportunity to update roadway striping and safety improvements.
 
 - Project page: https://connect.charlottesville.gov/RoseHillRestriping
+- Concept review (April 2026): https://connect.charlottesville.gov/RoseHillRestriping/RHDConcepts
 - Contact: connect@charlottesville.gov
 
 ## Project staff
@@ -56,3 +57,21 @@ Over the past 8 years, approximately 35 crashes in the study area:
 - Rose Hill Neighborhood Association meetings
 - Bike and Pedestrian Committee presentations
 - Planning Commission work sessions
+
+## Concept review (April 2026)
+
+Following the community walk/bike audit (March 2026) and the April 13 open house, the city published draft concepts for public review:
+
+- **Option 1** — proposed lane reconfiguration with enhanced pedestrian crossings and accessibility improvements
+- **Option 2** — alternative lane reconfiguration
+- **Other Design Concepts** — additional alternatives beyond the two main options
+- **Previous Stakeholder Feedback** — summary of prior listening-session input
+
+The city frames the concepts under two headings:
+
+- **Safety and Infrastructure** — lane reconfigurations for traffic calming, pedestrian crossings, accessibility improvements.
+- **Community Vitality** — "protecting neighborhood character while updating aging infrastructure" and integration of priorities from earlier listening sessions.
+
+Public input window: May 2026. Implementation: Summer 2027 (during resurfacing).
+
+Source: https://connect.charlottesville.gov/RoseHillRestriping/RHDConcepts
