@@ -52,6 +52,10 @@ Over the past 8 years, approximately 35 crashes in the study area:
 | May 2026 | Public input on proposed designs |
 | Summer 2027 | Implementation during resurfacing |
 
+## Related
+
+- [[E-bikes]] — local car-light households cite protected bike lanes as the main enabler of replacing car trips with bike trips.
+
 ## Community engagement
 
 - Rose Hill Neighborhood Association meetings

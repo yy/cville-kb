@@ -36,4 +36,4 @@ Minimum bicycle parking is required for all uses, except projects with 1–4 dwe
 - 3 ft clearance from walls, fences, curbs
 - Short-term: publicly accessible, within 100 ft of building
 - Long-term: covered, secured (locked room, locker, fenced area with locked gate, or monitored area), within 200 ft of building
-- Long-term must provide electrical outlets for at least 25% of spaces
+- Long-term must provide electrical outlets for at least 25% of spaces (relevant for [[E-bikes]] charging)
