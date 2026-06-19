@@ -1,7 +1,7 @@
 ---
 title: US 29/US 250 Smart Scale ramp extensions
 date: 2026-04-21
-updated: 2026-04-22
+updated: 2026-06-19
 tags: [transportation, smart-scale, mpo, us-29, us-250]
 ---
 
@@ -50,3 +50,9 @@ Stolzenberg also rebutted Albemarle staff's two stated justifications for the wi
 
 - **Future Western Neighborhoods / Crozet growth.** Per the county's own pipeline data, almost nothing is planned in the Western Neighborhoods (6 & 7) and they have not seen appreciable new construction for decades; the only sizable project is Greystar, a 525-of-532-unit student housing development that can reasonably be served by alternate modes. Crozet is approaching build-out with little greenfield land left, and the AC44 build-out analysis projects most future growth occurring in Neighborhood 5 and Hollymead — not the western corridor the ramps are meant to serve.
 - **"Nothing better to slot in."** Albemarle staff conceded on the record that the southbound off-ramp *"does not address the root cause of the issues there"* and is *"not our highest priority project, but we don't have another one to slot in its place"* (MPO Tech Committee, ~01:24). Stolzenberg called widening a highway under that rationale *"absolute planning malpractice."*
+
+## June 2026: endorsement round
+
+As of the [June 15, 2026 Week Ahead](https://communityengagement.substack.com/p/week-ahead-for-june-15-2026-charlottesville), the ramp applications are on the [[Topic/Smart Scale]] endorsement track via Albemarle County's June 17 meeting consent agenda, submitted by the Charlottesville-Albemarle MPO, rather than as a standalone City Council vote. Separately, Charlottesville's own first Smart Scale application in many years is the West Main / Ridge intersection reconfiguration (one-way conversion of West Water and South Street W, with a pedestrian plaza) — consistent with [[Person/Ben Chambers]]'s position that the city should direct its limited Smart Scale capacity to its own priorities rather than the Ivy ramps.
+
+*Note: that source is a meeting preview; confirming the actual June 16–17 outcomes — and whether the projects still require a direct City Council endorsement — is a pending follow-up.*
