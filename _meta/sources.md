@@ -34,5 +34,6 @@ Pages whose currency the `updates`/`freshness` modes should re-check against the
 - CFD Strategic Planning — `Process/CFD Strategic Planning.md`
 - E-bikes regulation — `Topic/E-bikes.md`
 - Charlottesville Development Code — `Policy/Charlottesville Development Code.md`
+- West Main / Ridge intersection reconfiguration — `Project/West Main-Ridge intersection.md`
 
 When a new matter appears in the sources that isn't tracked here, propose adding both a page and a line to this list.
