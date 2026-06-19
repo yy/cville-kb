@@ -17,6 +17,7 @@ In your summary to the user, state the source for each factual claim you added (
 ## Conventions
 
 - Pages are Markdown in an Obsidian vault. Use `[[wikilinks]]` for internal cross-references.
+- Write each paragraph as a single soft-wrapped line — no hard line breaks within a sentence or paragraph (Obsidian convention).
 - Include YAML frontmatter with at least `title` and `date`; tracked project/topic pages also carry `updated:` and `status:` (active / monitoring / resolved).
 - Link to primary sources rather than hosting copies; summarize in your own words.
 - See `CONTRIBUTING.md` for the full content, sourcing, and privacy policy.
