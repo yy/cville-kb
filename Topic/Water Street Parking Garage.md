@@ -1,5 +1,6 @@
 ---
 title: Water Street Parking Garage
+location: Water Street (downtown)
 date: 2026-04-28
 tags: [transportation, parking, downtown, finance]
 ---

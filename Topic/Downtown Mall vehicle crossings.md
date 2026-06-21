@@ -1,5 +1,6 @@
 ---
 title: Downtown Mall vehicle crossings
+location: Downtown Mall
 date: 2026-04-21
 tags: [transportation, downtown-mall, pedestrian]
 ---

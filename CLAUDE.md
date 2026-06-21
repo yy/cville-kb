@@ -22,6 +22,16 @@ In your summary to the user, state the source for each factual claim you added (
 - Link to primary sources rather than hosting copies; summarize in your own words.
 - See `CONTRIBUTING.md` for the full content, sourcing, and privacy policy.
 
+## Disambiguation
+
+When pages could collide on the same subject or place:
+
+- **Name by the project/initiative, not the location** — a place hosts many efforts over time, so the title says what is done, not just where (e.g. `West Main / Ridge intersection reconfiguration`, not `West Main / Ridge`).
+- **Qualify colliding titles** by their distinguishing attribute — program plus round/year, or scope (e.g. `… (Smart Scale)`, `… FY28`). For Smart Scale, the round is usually the cleanest qualifier.
+- **Group by place with a `location:` frontmatter field** so projects at the same spot stay collectable regardless of differing titles.
+- **Add a place/index hub page only once a location has 2–3+ distinct projects**, linking each project and back — don't create it preemptively.
+- **Folders disambiguate by type** — the same name can live in `Organization/` (the entity) and `Project/` (the effort), as with Cville Food Co-op.
+
 ## Improvement routine
 
 To grow and maintain the KB, run the modal routine in `_meta/routine.md` — **one small, reviewable chunk per run** (modes: `updates`, `onboard`, `deepen`, `garden`, `freshness`), starting from the verified source list in `_meta/sources.md`. Every mode is governed by the strict factuality gate above.

@@ -1,5 +1,6 @@
 ---
 title: Rose Hill Drive Restriping
+location: Rose Hill Drive (Preston Ave–Rugby Ave)
 date: 2026-04-05
 tags: [transportation, bike-ped, safety]
 ---

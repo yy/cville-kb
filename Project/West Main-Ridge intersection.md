@@ -1,5 +1,6 @@
 ---
 title: West Main / Ridge intersection reconfiguration
+location: West Main / Ridge / McIntire
 date: 2026-06-20
 updated: 2026-06-20
 status: active

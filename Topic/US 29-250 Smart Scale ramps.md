@@ -1,5 +1,6 @@
 ---
 title: US 29/US 250 Smart Scale ramp extensions
+location: US 29 / US 250 interchange (Ivy Road)
 date: 2026-04-21
 updated: 2026-06-19
 tags: [transportation, smart-scale, mpo, us-29, us-250]
