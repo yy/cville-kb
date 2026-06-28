@@ -27,6 +27,7 @@ Canonical sources for the improvement routine (see `_meta/routine.md`). The stri
 Pages whose currency the `updates`/`freshness` modes should re-check against the sources above:
 
 - US 29-250 Smart Scale ramps — `Topic/US 29-250 Smart Scale ramps.md`
+- Sidewalk Priorities — `Topic/Sidewalk Priorities.md`
 - Water Street Parking Garage — `Topic/Water Street Parking Garage.md`
 - Downtown Mall vehicle crossings — `Topic/Downtown Mall vehicle crossings.md`
 - Rose Hill Restriping — `Project/Rose Hill Restriping.md`
