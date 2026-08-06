@@ -1,11 +1,11 @@
 ---
 title: Charlottesville Development Code
 date: 2026-04-06
-updated: 2026-06-19
+updated: 2026-08-06
 tags: [zoning, development-code]
 ---
 
-Chapter 34 of the City Code, adopted December 18, 2023 and amended February 17, 2026. Replaced the previous zoning ordinance with a form-based code.
+Chapter 34 of the City Code, adopted December 18, 2023 and amended February 17, 2026. Replaced the previous zoning ordinance with a form-based code. The city's authority to zone at all is delegated by the state under Va. Code [§ 15.2-2280](https://law.lis.virginia.gov/vacode/title15.2/chapter22/section15.2-2280/); see [[Topic/Dillon Rule]].
 
 - [Full text (PDF, updated March 2026)](https://www.charlottesville.gov/DocumentCenter/View/16092/Charlottesville-Development-Code-PDF-Updated-March-23-2026)
 

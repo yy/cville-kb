@@ -4,7 +4,7 @@ date: 2026-04-06
 tags: [zoning, development, glossary]
 ---
 
-A proffer is a voluntary condition offered by a developer as part of a rezoning application in Virginia. Once the locality accepts the rezoning, proffers become legally binding commitments. Common proffers include affordable housing commitments, use restrictions, height limits, and infrastructure improvements.
+A proffer is a voluntary condition offered by a developer as part of a rezoning application in Virginia. Once the locality accepts the rezoning, proffers become legally binding commitments. Common proffers include affordable housing commitments, use restrictions, height limits, and infrastructure improvements. Proffers exist because the state authorizes them; under the [[Topic/Dillon Rule]] a Virginia locality has no such power on its own.
 
 - Virginia Code: [§ 15.2-2303](https://law.lis.virginia.gov/vacode/title15.2/chapter22/section15.2-2303/)
 
