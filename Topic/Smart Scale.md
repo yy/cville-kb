@@ -1,13 +1,15 @@
 ---
 title: Smart Scale
 date: 2026-06-19
+updated: 2026-08-24
+status: active
 tags: [transportation, funding, vdot, state]
 ---
 
-**SMART SCALE** is Virginia's data-driven process for prioritizing transportation funding — officially, *"a process that helps Virginia meet its most critical transportation needs using limited tax dollars."* Project applications are scored on safety, congestion reduction, accessibility, economic development, land use, and environmental impact; the [[Commonwealth Transportation Board]] uses the scores to select which projects receive funding. It is administered by VDOT and runs in multi-year rounds (the current cycle is Round 7).
+[Virginia SMART SCALE](https://smartscale.virginia.gov/): official definition, scoring factors, [[Commonwealth Transportation Board]] role, and current Round 7 schedule.
 
-Locally, Smart Scale is the funding mechanism behind the [[Topic/US 29-250 Smart Scale ramps]] applications and Charlottesville's West Main / Ridge intersection application.
+## Charlottesville examples
 
-## Source
-
-- VDOT SMART SCALE — https://smartscale.virginia.gov/
+- [[Project/Barracks-Emmet intersection improvements]]: the [September 7, 2021 City Council minutes](https://weblink.charlottesville.org/Public/0/edoc/798802/MINS_20210907Sep07-APPROVED.pdf) identify it as a SMART SCALE project.
+- [[Topic/US 29-250 Smart Scale ramps]]: the state's [FY 2026 Culpeper District application list](https://smartscale.virginia.gov/media/smartscale/documents/apply/fy26_applicatios_by_district_acc.pdf) lists two Charlottesville-Albemarle MPO applications for the Barracks Road and US 29/250 area.
+- [[Project/West Main-Ridge intersection]]: the [June 15, 2026 meeting preview](https://communityengagement.substack.com/p/week-ahead-for-june-15-2026-charlottesville) describes Charlottesville's application for the West Main, Ridge, and McIntire intersection.

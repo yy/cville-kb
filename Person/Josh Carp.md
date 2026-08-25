@@ -1,6 +1,7 @@
 ---
 title: Josh Carp
 date: 2026-07-02
+updated: 2026-08-24
 tags: [person, civic-data, resident]
 ---
 
@@ -8,7 +9,11 @@ tags: [person, civic-data, resident]
 
 His transportation-related work includes the [[Topic/Traffic calming street-width analysis]], which flags neighborhood streets wide enough to be traffic-calming candidates.
 
+## E-bike lending library
+
+- [Charlottesville E-bike Lending Library](https://www.ebikelibrarycville.org/): free e-bike loans for up to one week; the site identifies Carp as the operator. See [[Topic/E-bikes]].
+
 ## Sources
 
-- [Joshua Carp — Cvillepedia](https://www.cvillepedia.org/Josh_Carp) — software engineer and resident; 2021 Council bid
-- [Cville Data Blog](https://blog.cvilledata.org/) — his civic data project
+- [Joshua Carp: Cvillepedia](https://www.cvillepedia.org/Josh_Carp): software engineer and resident; 2021 Council bid
+- [Cville Data Blog](https://blog.cvilledata.org/): his civic data project

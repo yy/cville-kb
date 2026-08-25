@@ -1,14 +1,21 @@
 ---
 title: E-bikes in Charlottesville
 date: 2026-04-26
+updated: 2026-08-24
+status: active
 tags: [transportation, bike-ped, e-bikes]
 ---
 
-E-bikes (electric-assist bicycles) have become a visible part of the Charlottesville transportation mix, with some local families using them to replace a substantial share of car trips. Cargo e-bikes — which can carry kids, groceries, and gear — are the model often cited by "car-light" households that have given up a second vehicle.
+E-bikes (electric-assist bicycles) have become a visible part of the Charlottesville transportation mix, with some local families using them to replace a substantial share of car trips. Cargo e-bikes—which can carry kids, groceries, and gear—are the model often cited by "car-light" households that have given up a second vehicle.
+
+## Lending library
+
+- [Charlottesville E-bike Lending Library](https://www.ebikelibrarycville.org/): free loans for up to one week; run by [[Person/Josh Carp]].
+- [WVTF profile, May 6, 2025](https://www.wvtf.org/news/2025-05-06/will-an-e-bike-change-your-life-a-cville-fan-offers-free-loaners-to-help-you-find-out): identifies Carp as the founder.
 
 ## Car-light families (C-VILLE Weekly, 2025)
 
-Nathan Alderman's September 24, 2025 feature in *C-VILLE Weekly*, ["'Car-light' families in C'ville are trading car trips for e-bike rides"](https://c-ville.com/car-light-families-in-cville-are-trading-car-trips-for-e-bike-rides/), profiles several local households that have shifted everyday trips — commuting, school drop-offs, errands — onto e-bikes. People interviewed include:
+Nathan Alderman's September 24, 2025 feature in *C-VILLE Weekly*, ["'Car-light' families in C'ville are trading car trips for e-bike rides"](https://c-ville.com/car-light-families-in-cville-are-trading-car-trips-for-e-bike-rides/), profiles several local households that have shifted everyday trips—commuting, school drop-offs, errands—onto e-bikes. People interviewed include:
 
 - Kevin Driscoll, UVA associate professor
 - Sadie and James Van Vranken, a teacher and an Albemarle County planner
@@ -30,11 +37,11 @@ Liam Donoghue of PeopleForBikes provided national context.
 
 ### Infrastructure context
 
-Riders quoted in the article repeatedly named infrastructure as the primary barrier to wider adoption. Streets singled out as feeling unsafe include **West Main Street** and **Ivy Road**. A **protected bike lane on Fifth Street** is mentioned as planned for spring 2026. Gillikin is quoted noting that "good bike infrastructure is good for mobility devices" — i.e., the same protected facilities that serve e-bikes also serve wheelchairs and other assistive devices.
+Riders quoted in the article repeatedly named infrastructure as the primary barrier to wider adoption. Streets singled out as feeling unsafe include **West Main Street** and **Ivy Road**. A **protected bike lane on Fifth Street** is mentioned as planned for spring 2026. Gillikin is quoted noting that "good bike infrastructure is good for mobility devices"; the same protected facilities that serve e-bikes also serve wheelchairs and other assistive devices.
 
 Related local projects in this KB: [[Rose Hill Restriping]].
 
 ## See also
 
-- [[Downtown Mall vehicle crossings]] — pedestrian/bike environment downtown
-- [[Parking Requirements]] — land-use policy that interacts with car-light living
+- [[Downtown Mall vehicle crossings]]: pedestrian/bike environment downtown
+- [[Parking Requirements]]: land-use policy that interacts with car-light living
