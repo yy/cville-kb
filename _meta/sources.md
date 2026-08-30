@@ -1,6 +1,6 @@
 # Sources & watchlist
 
-Canonical sources for the improvement routine (see `_meta/routine.md`). The strict-fact gate in `CLAUDE.md` requires every fact to trace to a source actually read this session — start from this list rather than from memory. URLs below were verified 2026-06-16; re-confirm if a fetch 404s.
+Canonical sources for the improvement routine (see `_meta/routine.md`). The strict-fact gate in `CLAUDE.md` requires every fact to trace to a source actually read this session—start from this list rather than from memory. The original source list was verified 2026-06-16; later additions carry their own check dates. Re-confirm if a fetch 404s.
 
 ## Primary civic sources
 
@@ -9,11 +9,12 @@ Canonical sources for the improvement routine (see `_meta/routine.md`). The stri
 - **Agendas & Minutes** — https://www.charlottesville.gov/1077/Agendas-Minutes
 - **CivicClerk meeting portal** (agendas, packets, minutes, video) — https://charlottesvilleva.portal.civicclerk.com/
 - **Open data / GIS portal** — https://opendata.charlottesville.org/
-- **Transit** — https://www.charlottesville.gov/470/Transit
+- **Transit** — https://www.charlottesville.gov/470/Transit; related topic: [[Topic/Park and ride lots|Park and ride lots]]
 - **Parking** — https://www.charlottesville.gov/239/Parking-Information
 
 ## Regional / state
 
+- **RideShare park-and-ride lots** — https://rideshareinfo.org/park-ride-lots/ (verified 2026-08-30)
 - **VDOT Smart Scale** (project scores & status) — confirm the specific project URL per fetch before citing.
 - **VDOT Culpeper District** (regional projects incl. US 29/250) — confirm per fetch.
 
@@ -36,5 +37,6 @@ Pages whose currency the `updates`/`freshness` modes should re-check against the
 - E-bikes regulation — `Topic/E-bikes.md`
 - Charlottesville Development Code — `Policy/Charlottesville Development Code.md`
 - West Main / Ridge intersection reconfiguration — `Project/West Main-Ridge intersection.md`
+- Park and ride lots — `Topic/Park and ride lots.md`
 
 When a new matter appears in the sources that isn't tracked here, propose adding both a page and a line to this list.
