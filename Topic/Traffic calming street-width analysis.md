@@ -1,6 +1,8 @@
 ---
 title: Traffic calming street-width analysis
 date: 2026-07-02
+updated: 2026-07-18
+status: monitoring
 tags: [topic, transportation, traffic-calming, data-tool]
 ---
 
@@ -14,4 +16,8 @@ The tool carries its own caveat: the analysis may miss some streets that need ca
 
 ## Link
 
-- [Traffic calming street-width analysis](https://traffic-calming.cvilledata.org/) — the tool, on Josh Carp's Cville Data project (cvilledata.org)
+- [Traffic calming street-width analysis](https://traffic-calming.cvilledata.org/road-width/)—the tool, on Josh Carp's Cville Data project (cvilledata.org)
+
+## Related data tools
+
+- [[Topic/Virginia Commuting Patterns dashboard]]
