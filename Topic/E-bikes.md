@@ -1,7 +1,7 @@
 ---
 title: E-bikes in Charlottesville
 date: 2026-04-26
-updated: 2026-08-24
+updated: 2026-09-20
 status: active
 tags: [transportation, bike-ped, e-bikes]
 ---
@@ -40,6 +40,11 @@ Liam Donoghue of PeopleForBikes provided national context.
 Riders quoted in the article repeatedly named infrastructure as the primary barrier to wider adoption. Streets singled out as feeling unsafe include **West Main Street** and **Ivy Road**. A **protected bike lane on Fifth Street** is mentioned as planned for spring 2026. Gillikin is quoted noting that "good bike infrastructure is good for mobility devices"; the same protected facilities that serve e-bikes also serve wheelchairs and other assistive devices.
 
 Related local projects in this KB: [[Rose Hill Restriping]].
+
+## Related UVA roles
+
+- **[Michael Joy](https://officearchitect.virginia.edu/people/michael-joy)**: Associate University Architect at UVA. The city's [2025 Parks and Recreation Master Plan, p. 3](https://charlottesville.gov/DocumentCenter/View/13715/Charlottesville-Parks-and-Recreation-Master-Plan-Final-?bidId=) lists him as UVA's ex officio member of the Charlottesville Planning Commission.
+- **Patrick Keese**: Micromobility Coordinator at UVA Parking and Transportation, per [UVA Sustainability's December 8, 2025 profile](https://sustainability.virginia.edu/blog/meet-uvas-staff-sustainability-passport-champions).
 
 ## See also
 
