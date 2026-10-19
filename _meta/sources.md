@@ -9,6 +9,7 @@ Canonical sources for the improvement routine (see `_meta/routine.md`). The stri
 - **Agendas & Minutes** — https://www.charlottesville.gov/1077/Agendas-Minutes
 - **CivicClerk meeting portal** (agendas, packets, minutes, video) — https://charlottesvilleva.portal.civicclerk.com/
 - **Open data / GIS portal** — https://opendata.charlottesville.org/
+- **MyCville public reports** — [public interface](https://iframe.publicstuff.com/#?client_id=1000141); [requests-list endpoint](https://vc0.publicstuff.com/api/2.0/requests_list?client_id=1000141). Verified 2026-09-27; coverage and API notes: [[Process/MyCville public reports]].
 - **Transit** — https://www.charlottesville.gov/470/Transit; related topic: [[Topic/Park and ride lots|Park and ride lots]]
 - **Parking** — https://www.charlottesville.gov/239/Parking-Information
 

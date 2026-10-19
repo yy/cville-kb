@@ -1,7 +1,7 @@
 ---
 title: Traffic calming street-width analysis
 date: 2026-07-02
-updated: 2026-07-18
+updated: 2026-09-27
 status: monitoring
 tags: [topic, transportation, traffic-calming, data-tool]
 ---
@@ -20,4 +20,5 @@ The tool carries its own caveat: the analysis may miss some streets that need ca
 
 ## Related data tools
 
+- [[Process/MyCville public reports]]—a potential source of existing street concerns to compare with candidate locations.
 - [[Topic/Virginia Commuting Patterns dashboard]]
